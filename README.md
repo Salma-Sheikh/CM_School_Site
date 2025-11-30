@@ -1,4 +1,4 @@
-# CM Shri Public School Website
+# CM Public School Website
 
 A modern, responsive school website built with HTML, CSS, and JavaScript.
 
@@ -18,7 +18,6 @@ This is the official website for CM Shri Public School, located in TKD Extension
 - **Multiple Pages** - Home, About, Academics, Gallery, and Contact pages
 - **Contact Form** - Built-in form validation for user inquiries
 - **Google Maps Integration** - Interactive map showing school location
-- **Custom Watermark** - "ALEX" watermark on hero sections
 - **Active Page Indicator** - Visual highlighting of current page in navigation
 
 ## 🗂️ Project Structure
@@ -96,14 +95,6 @@ CM_School/
 - Email format validation
 - Success/error messaging
 
-## 📱 Browser Support
-
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-- Mobile browsers
-
 ## 🚀 Deployment
 
 This site is deployed on GitHub Pages and is accessible at:
@@ -111,12 +102,8 @@ This site is deployed on GitHub Pages and is accessible at:
 
 ## 📄 License
 
-© 1990 - 2025 CM Shri Public School. All Rights Reserved.
+© 1990 - 2025 CM Public School. All Rights Reserved.
 
 ## 👨‍💻 Developer
 
-Developed by: Salma Sheikh
-
-## 📞 Contact
-
-For any inquiries about the website, please contact through the [Contact Page](./pages/contact.html).
+Developed by: Alex
